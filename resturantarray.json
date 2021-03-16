@@ -1,0 +1,108 @@
+{
+    "totalResults": 158,
+    "page": 1,
+    "total_pages": 80,
+    "more_pages": true,
+    "data": [{
+        "restaurant_name": "Albella",
+        "restaurant_phone": "(212) 267-5900",
+        "restaurant_website": "",
+        "hours": "Mon-Fri: 7am-5pm Bar Thu-Fri: 5pm-close",
+        "price_range": "$",
+        "price_range_num": 1,
+        "restaurant_id": 4071391274004229,
+        "cuisines": ["Italian", "Pizza"],
+        "address": {
+            "city": "New York",
+            "state": "NY",
+            "postal_code": "10007",
+            "street": "10 Reade St",
+            "formatted": "10 Reade St New York, NY 10007"
+        },
+        "geo": {
+            "lat": 40.713912,
+            "lon": -74.004229
+        },
+        "menus": [],
+        "last_updated": "2020-12-29T01:04:04.435Z"
+    }, 
+
+
+
+    
+    {
+        "restaurant_name": "Gran Morsi",
+        "restaurant_phone": "(212) 577-2725",
+        "restaurant_website": "",
+        "hours": "Mon-Fri: 11am-11pmSat-Sun: 5pm-11pm",
+        "price_range": "$$$$",
+        "price_range_num": 4,
+        "restaurant_id": 4071421974007737,
+        "cuisines": ["Italian", "Pizza"],
+        "address": {
+            "city": "New York",
+            "state": "NY",
+            "postal_code": "10007",
+            "street": "22 Warren St",
+            "formatted": "22 Warren St New York, NY 10007"
+        },
+        "geo": {
+            "lat": 40.714219,
+            "lon": -74.007737
+        },
+        "menus": [],
+        "last_updated": "2020-12-29T01:03:25.228Z"
+    },
+
+
+    
+    {
+        "restaurant_name": "Gran Morsi",
+        "restaurant_phone": "(212) 577-2725",
+        "restaurant_website": "",
+        "hours": "Mon-Fri: 11am-11pmSat-Sun: 5pm-11pm",
+        "price_range": "$$$$",
+        "price_range_num": 4,
+        "restaurant_id": 4071421974007737,
+        "cuisines": ["Italian", "Pizza"],
+        "address": {
+            "city": "New York",
+            "state": "NY",
+            "postal_code": "10007",
+            "street": "22 Warren St",
+            "formatted": "22 Warren St New York, NY 10007"
+        },
+        "geo": {
+            "lat": 40.714219,
+            "lon": -74.007737
+        },
+        "menus": [],
+        "last_updated": "2020-12-29T01:03:25.228Z"
+    },
+
+    
+    {
+        "restaurant_name": "Gran Morsi",
+        "restaurant_phone": "(212) 577-2725",
+        "restaurant_website": "",
+        "hours": "Mon-Fri: 11am-11pmSat-Sun: 5pm-11pm",
+        "price_range": "$$$$",
+        "price_range_num": 4,
+        "restaurant_id": 4071421974007737,
+        "cuisines": ["Italian", "Pizza"],
+        "address": {
+            "city": "New York",
+            "state": "NY",
+            "postal_code": "10007",
+            "street": "22 Warren St",
+            "formatted": "22 Warren St New York, NY 10007"
+        },
+        "geo": {
+            "lat": 40.714219,
+            "lon": -74.007737
+        },
+        "menus": [],
+        "last_updated": "2020-12-29T01:03:25.228Z"
+    }],
+    "numResults": 4
+}
