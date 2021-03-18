@@ -7,10 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resturant API</title>
   <link rel="stylesheet" href="resturantApiCss.css">
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
 <body>
-  <img id="loadImage" src="assets/atric.gif" alt="loadImage" height="300" width="300" hidden>
+
   <main>
     <header id="mainHeader">
       <h1>Martin's api for hungry people!</h1>
@@ -27,8 +29,8 @@
                 <input type="text" name="search" id="search" required>
               </div>
               <div class="formDiv">
-                <label for="cuisine">Search for cuisine (optional)</label>
-                <input type="text" name="cuisine" id="cuisine">
+                <label for="fullmenu">Search for cuisine (optional)</label>
+                <input type="text" name="fullmenu" id="fullmenu">
               </div>
               <div class="formDiv"><label for="size">Amount of search results</label>
                 <select name="size" id="size">

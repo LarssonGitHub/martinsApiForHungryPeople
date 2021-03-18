@@ -21,6 +21,9 @@
         grid-template-columns: repeat(auto-fill, minmax(15rem, auto));
     }
         }
+
+     
+        
     
 @media only screen and (min-width: 900px) {
     
@@ -208,9 +211,3 @@ input[type=range]::-webkit-slider-thumb {
     margin: 1em 0;
 }
 
-#loadImage {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
